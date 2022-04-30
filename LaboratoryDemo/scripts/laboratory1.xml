@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<laboratory>
+    <event time="1.0" target="switch1" on="true"/>
+    <event time="2.0" target="winch" rotate-to="2" duration="2"/>
+    <event time="5.0" target="switch2" on="true"/>
+</laboratory>

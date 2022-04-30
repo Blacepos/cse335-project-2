@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<laboratory>
+    <event time="1.0" target="rheostat" rotate-to="0.5" duration="2"/>
+		<event time="5.0" target="switch" on="true"/>
+    <event time="7.0" target="rheostat" rotate-to="0" duration="3"/>
+		<event time="11.0" target="rheostat" rotate-to="0.5" duration="3"/>
+    <event time="14.0" target="rheostat" rotate-to="0" duration="2"/>
+</laboratory>
